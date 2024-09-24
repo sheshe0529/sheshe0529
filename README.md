@@ -54,14 +54,5 @@ Actualmente, estoy profundizando mis conocimientos en **sistemas de software** y
 
 ---
 
-## Conéctate conmigo
-
-Puedes encontrarme en:
-
-- 📧 [Correo Electrónico](mailto:tucorreo@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-
----
-
 ¡Gracias por visitar mi perfil! 🚀
 
