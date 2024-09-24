@@ -1,5 +1,5 @@
 
-#Hola, soy Angel Sanchez 👋
+# Hola, soy Angel Sanchez 👋
 ## Sobre mí
 
 - 🎓 Estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP).
@@ -24,6 +24,6 @@
 
 ## Conéctate conmigo
 
-- 📧 [Correo Electrónico](angedavid2000@gmail.com)
+- 📧 angedavid2000@gmail.com
 
 
