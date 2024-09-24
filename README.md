@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 
 # Bienvenido a mi GitHub 👋
 
-### ¡Hola! Soy un **Ingeniero Informático** apasionado por la tecnología, la programación y el ejercicio. Me encanta aprender nuevas habilidades y poner en práctica mis conocimientos para crear soluciones innovadoras.
+### ¡Hola! Soy un **Ingeniero Informático** apasionado por la tecnología y la programación. Me encanta aprender nuevas cosas cada día y las situaciones retadoras.
 
 ---
 
 ## Sobre mí
 
-- 🎓 Estudiante de Ingeniería Informática.
-- 💻 Programador con experiencia en varios lenguajes de programación.
-- 💡 Apasionado por resolver problemas y crear aplicaciones que faciliten la vida.
-- ⚙️ Me gusta aplicar mis conocimientos de **Linux** en mis proyectos.
+- 🎓 Estudiante de Ingeniería Informática en la PUCP.
+- 💻 Programador Junior de varios lenguajes de programación.
+- 💡 Apasionado por resolver problemas.
+- ⚙️ Me gusta **Linux**.
 
 ---
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - 💪 Me encanta hacer ejercicio y mantener un estilo de vida saludable.
 - 🔧 Desarrollar soluciones innovadoras utilizando nuevas tecnologías.
-- 📚 Estudiar y seguir aprendiendo sobre **Arquitectura de Computadores** y tecnologías emergentes.
+- 📚 Estudiar y seguir aprendiendo sobre **sistemas de información** y tecnologías emergentes.
 
 ---
 
