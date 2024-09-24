@@ -14,17 +14,54 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Sheshe</h1>
+# Bienvenido a mi GitHub 👋
 
+### ¡Hola! Soy un **Ingeniero Informático** apasionado por la tecnología, la programación y el ejercicio. Me encanta aprender nuevas habilidades y poner en práctica mis conocimientos para crear soluciones innovadoras.
 
+---
 
+## Sobre mí
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+- 🎓 Estudiante de Ingeniería Informática.
+- 💻 Programador con experiencia en varios lenguajes de programación.
+- 💡 Apasionado por resolver problemas y crear aplicaciones que faciliten la vida.
+- ⚙️ Me gusta aplicar mis conocimientos de **Linux** en mis proyectos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="cplusplus" width="40" height="40"/>
+## Tecnologías que manejo
 
-</p><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## Lo que disfruto hacer
+
+- 💪 Me encanta hacer ejercicio y mantener un estilo de vida saludable.
+- 🔧 Desarrollar soluciones innovadoras utilizando nuevas tecnologías.
+- 📚 Estudiar y seguir aprendiendo sobre **Arquitectura de Computadores** y tecnologías emergentes.
+
+---
+
+## Lo que estoy aprendiendo
+
+Actualmente, estoy profundizando mis conocimientos en **sistemas de software** y explorando nuevas tecnologías para mejorar mis habilidades en informática.
+
+---
+
+## Conéctate conmigo
+
+Puedes encontrarme en:
+
+- 📧 [Correo Electrónico](mailto:tucorreo@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
+
