@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bienvenido a mi GitHub 👋
-
-### ¡Hola! Soy un **Ingeniero Informático** apasionado por la tecnología y la programación. Me encanta aprender nuevas cosas cada día y las situaciones retadoras.
+# Hola, soy Angel Sanchez 👋
 
 ---
 
 ## Sobre mí
 
-- 🎓 Estudiante de Ingeniería Informática en la PUCP.
+- 🎓 Estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP).
 - 💻 Programador Junior de varios lenguajes de programación.
 - 💡 Apasionado por resolver problemas.
 - ⚙️ Me gusta **Linux**.
@@ -48,9 +46,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Lo que estoy aprendiendo
+## Conéctate conmigo
 
-Actualmente, estoy profundizando mis conocimientos en **sistemas de software** y explorando nuevas tecnologías para mejorar mis habilidades en informática.
+- 📧 [Correo Electrónico](angedavid2000@gmail.com)
 
 ---
 
