@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # Hola, soy Angel Sanchez 👋
 
----
-
 ## Sobre mí
 
 - 🎓 Estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP).
