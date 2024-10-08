@@ -22,7 +22,7 @@
 - 🔧 Desarrollar soluciones innovadoras utilizando nuevas tecnologías.
 - 📚 Estudiar y seguir aprendiendo sobre **sistemas de información** y tecnologías emergentes.
 
-## Conéctate conmigo
+## Encuentrame como
 
 - 📧 angedavid2000@gmail.com
 
