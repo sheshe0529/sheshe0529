@@ -3,8 +3,7 @@
 ## Sobre mí
 
 - 🎓 Estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP).
-- 💻 Programador Junior de varios lenguajes de programación.
-- 💡 Apasionado por resolver problemas.
+- 💻 Programador en curso de varios lenguajes de programación.
 - ⚙️ Me gusta **Linux**.
 
 ## Tecnologías que manejo
@@ -18,9 +17,8 @@
 
 ## Lo que disfruto hacer
 
-- 💪 Me encanta hacer ejercicio y mantener un estilo de vida saludable.
-- 🔧 Desarrollar soluciones innovadoras utilizando nuevas tecnologías.
-- 📚 Estudiar y seguir aprendiendo sobre **sistemas de información** y tecnologías emergentes.
+- 🔧 Descubrir nuevas tecnologías.
+- 📚 Estudiar y seguir aprendiendo sobre **sistemas de información**.
 
 ## Encuentrame como
 
